@@ -1,17 +1,26 @@
 <!-- 🌟 Typing Name Banner -->
-![Typing Name Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=100&color=61DAFB&center=true&vCenter=true&width=600&lines=Shahad%20Albalawi)
+![Typing Name Banner](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Shahad%20Albalawi;Full-Stack+Developer;Data+Analyst;AI+Enthusiast)
 
 <br>
 
-##  Skills & Tech Stack 🛠
+## 🛠 Skills & Tech Stack
 <p align="center">
-  <!-- All your known skills organized neatly in one or two rows -->
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,php,sql,html,css,react,nodejs,vue,flutter,pandas,numpy,tensorflow,pytorch,opencv,git,github,vscode,jupyter,postgres,sqlite,docker&perline=15&theme=dark" />
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,php,sql,mysql&perline=10&theme=dark" title="Programming Languages">
+
+  <!-- Web & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,vue,flutter&perline=10&theme=dark" title="Web & Frameworks">
+
+  <!-- Data & AI -->
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,tensorflow,pytorch,opencv&perline=10&theme=dark" title="Data & AI">
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,postgres,sqlite,docker&perline=10&theme=dark" title="Tools">
 </p>
 
 <br>
 
-##  Connect 📫
+## 📫 Contact ✨
 <p align="center">
   <a href="https://www.linkedin.com/in/shahad-albalwi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
