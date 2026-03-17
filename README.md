@@ -3,7 +3,7 @@
 
 <br>
 
-## 🛠 Skills & Tech Stack
+## Skills & Tech Stack 🛠
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,php,sql,mysql&perline=10&theme=dark" title="Programming Languages">
@@ -20,7 +20,7 @@
 
 <br>
 
-## 📫 Contact ✨
+## Contact 📫
 <p align="center">
   <a href="https://www.linkedin.com/in/shahad-albalwi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
