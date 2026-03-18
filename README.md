@@ -3,7 +3,7 @@
 
 ---
 
-## About Me 👩‍💻
+## About Me 
 Passionate about building practical solutions and data-driven projects.  
 Exploring Python to solve real-world problems and create impactful applications.  
 Always learning and experimenting to grow as a developer and data analyst..
