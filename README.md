@@ -16,7 +16,7 @@
 
 ## Professional summary
 
-Software developer and data analyst with experience in Python-based applications, relational databases, and web technologies. Focus on analytical workflows, clear documentation, and maintainable code. Interested in intelligent systems and data-supported decision-making in product and operations contexts.
+Software developer and data analyst with hands-on experience in building Python-based applications, working with relational databases, and developing web solutions. Passionate about transforming data into actionable insights and building intelligent systems that support real-world decision-making. Focused on writing clean, maintainable code and delivering practical, user-oriented solutions.
 
 ---
 
@@ -32,48 +32,59 @@ Software developer and data analyst with experience in Python-based applications
 
 <table>
 <tr>
+
+<td width="50%" valign="top">
+
+#### [Optimum](https://github.com/Shahad-Albalawi/sporthack2030)
+
+AI-powered sports training application that analyzes human movement in real time using computer vision and biomechanical evaluation. Designed to support multiple sports through adaptive movement analysis, it provides performance scoring, posture correction, and intelligent feedback to deliver a scalable, data-driven training experience without the need for a personal coach.
+
+<p>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-02D9F7?style=flat-square&logoColor=black" />
+</p>
+
+</td>
+
 <td width="50%" valign="top">
 
 #### [Maydan](https://github.com/Shahad-Albalawi/Maydan-TheaterThon-Hackathon.)
 
-Theater management platform using AI-related capabilities for scheduling, audience analytics, and financial operations, with the aim of improving operational efficiency and supporting management decisions.
+AI-powered theater management platform designed to optimize scheduling, analyze audience behavior, and support financial operations. Enhances operational efficiency and enables data-driven decision-making.
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/AI-02D9F7?style=flat-square&logoColor=black" alt="AI" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-02D9F7?style=flat-square&logoColor=black" />
 </p>
 
 </td>
+
+</tr>
+</table>
+
+<br/>
+
+<table align="center">
+<tr>
+
 <td width="50%" valign="top">
 
 #### [Mudabbir](https://github.com/Shahad-Albalawi/Mudabbir.app)
 
-Cross-platform mobile application for personal finance. Presents spending data as structured insights to support budgeting and savings objectives, with AI-assisted analysis of user behavior.
+Cross-platform personal finance application that analyzes user spending behavior and provides actionable insights for budgeting and savings through AI-driven recommendations.
 
 <p>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Mobile-02D9F7?style=flat-square&logoColor=black" alt="Mobile" />
-<img src="https://img.shields.io/badge/AI-02D9F7?style=flat-square&logoColor=black" alt="AI" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-02D9F7?style=flat-square&logoColor=black" />
 </p>
 
 </td>
+
 </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/Shahad-Albalawi/Mudabbir.app">
-    <img width="49%" src="https://stats.programcx.cn/api/pin/?username=Shahad-Albalawi&repo=Mudabbir.app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=02D9F7&icon_color=02D9F7" alt="Mudabbir repository card" />
-  </a>
-  <a href="https://github.com/Shahad-Albalawi/Maydan-TheaterThon-Hackathon.">
-    <img width="49%" src="https://stats.programcx.cn/api/pin/?username=Shahad-Albalawi&repo=Maydan-TheaterThon-Hackathon.&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=02D9F7&icon_color=02D9F7" alt="Maydan repository card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Shahad-Albalawi?tab=repositories"><strong>View all repositories</strong></a>
-</p>
 
 ---
 
@@ -96,8 +107,7 @@ Cross-platform mobile application for personal finance. Presents spending data a
 
 <div align="center">
 
-Open to professional opportunities and collaborations.
+Open to internships and full-time opportunities in software development, data analysis, and AI-driven solutions.
 
 </div>
-
 
