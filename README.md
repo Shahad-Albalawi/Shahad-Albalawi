@@ -71,7 +71,7 @@ AI-powered theater management platform designed to optimize scheduling, analyze 
 
 <td width="50%" valign="top">
 
-#### [Mudabbir](https://github.com/Shahad-Albalawi/Mudabbir.app)
+#### [Mudabbir](https://github.com/Shahad-Albalawi/Mudabbir)
 
 Cross-platform personal finance application that analyzes user spending behavior and provides actionable insights for budgeting and savings through AI-driven recommendations.
 
